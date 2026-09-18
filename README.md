@@ -1,0 +1,1 @@
+# Modelo-de-detec-o-de-textos-
